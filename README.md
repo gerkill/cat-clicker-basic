@@ -17,3 +17,5 @@ The specifics of the layout do not matter, so style it however you'd like.<br><b
 --Interaction--<br>
 When a cat name is clicked in the list, the cat display area should update to show the data for the selected cat.
 The number of clicks in the cat area should be unique to each cat, and should increment when the cat's picture is clicked.
+
+You can view the live site here: [Cat Clicker](https://gerkill.github.io/index.html)
